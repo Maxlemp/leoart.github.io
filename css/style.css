@@ -203,7 +203,7 @@ h5{
 	margin-bottom: 15px;
 }
 .pra p{
-	color: #fcfc;
+	color: #f1d0bb;
 	font-size: 16px;
 	line-height: 27px;
 	margin-bottom: 25px;
@@ -265,7 +265,7 @@ footer{
 }
 footer p:nth-child(1){
 	font-size: 30px;
-	color: white;
+	color: #008696;
 	margin-bottom: 20px;
 	font-weight: bold;
 }
